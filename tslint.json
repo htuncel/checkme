@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "semicolon": false,
+    "quotemark": false
+  },
+  "extends": "@oclif/tslint"
+}
